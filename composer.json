@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": "^7.1",
+        "php": ">=7.1",
         "paquettg/php-html-parser": "^2.1"
     },
     "autoload": {
